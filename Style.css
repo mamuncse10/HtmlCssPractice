@@ -1,0 +1,152 @@
+﻿body {
+    background-color: red;
+}
+.body {
+    max-width: 960px;
+
+    background-color: antiquewhite;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin: auto;
+    padding: 5px;
+}
+.header {
+    height: 150px;
+    margin-bottom: 5px;
+    background-color: burlywood;
+
+    
+}
+.header .logo {
+    width: 200px;
+    background-color: white;
+    height: 150px;
+    float: left
+}
+.header .logo img {
+    height: 140px;
+    width: 190px;
+}
+.header .title {
+    width: 760px;
+    background-color: whitesmoke;
+    height: 150px;
+    float: left;
+    text-align: center;
+}
+.header .title h1 {
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: 45px;
+    font-family: "Times New Roman";
+    font-weight: bold;
+}
+
+  .horizontal {
+    height: 40px;
+    background-color: wheat;
+    
+}
+ .horizontal  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    
+    background-color: #f1f1f1;
+    
+    height: 40px;
+    overflow: auto;
+    float: left;
+}
+ .horizontal li {
+    width: 238px;
+    height: 36px;
+    float: left;
+    border: 1px solid black;   
+}
+.horizontal  li a {
+        width: 238px;
+    height: 36px;
+        display: block;
+        color: #000;
+        /*padding: 8px 16px;*/
+        text-decoration: none;
+        float: left;
+        display: inline;
+        text-align: center;
+        padding-top: 2px;
+    }
+ .horizontal  .active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+ .horizontal  li a:hover:not(.active) {
+    background-color: #555;
+    color: white;
+}
+ .container {
+    margin-bottom: 5px;
+    background-color: whitesmoke;
+    float: left;
+}
+.container aside {
+    
+    width: 198px;
+    float: left;
+    border: 1px solid black;
+}
+
+.container aside ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+    /*border: 1px solid #555;*/
+    list-style-type: none;
+}
+
+.container aside li {
+    text-align: center;
+    border-bottom: 1px solid #555;
+}
+
+.container aside li:last-child {
+    border-bottom: none;
+}
+.container aside li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+
+.container aside li a.active {
+    background-color: #4CAF50;
+    color: white;
+}
+
+   .container aside  li a:hover:not(.active) {
+        background-color: #555;
+        color: white;
+    }
+
+   .container .content {
+       width: 748px;
+       background-color: gainsboro;
+       min-height: 100px;
+       float: left;
+       padding-left: 10px;
+       border: 1px solid black;
+   }
+.footer {
+    min-height: 30px;
+    padding-top: 10px;
+    background-color: burlywood;
+    clear: both;
+    text-align: center;
+}

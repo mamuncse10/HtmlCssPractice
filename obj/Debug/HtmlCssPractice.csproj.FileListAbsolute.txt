@@ -1,0 +1,6 @@
+F:\DotNET\Projects\HtmlCssPractice\HtmlCssPractice\bin\HtmlCssPractice.dll.config
+F:\DotNET\Projects\HtmlCssPractice\HtmlCssPractice\bin\HtmlCssPractice.dll
+F:\DotNET\Projects\HtmlCssPractice\HtmlCssPractice\bin\HtmlCssPractice.pdb
+F:\DotNET\Projects\HtmlCssPractice\HtmlCssPractice\obj\Debug\HtmlCssPractice.csprojResolveAssemblyReference.cache
+F:\DotNET\Projects\HtmlCssPractice\HtmlCssPractice\obj\Debug\HtmlCssPractice.dll
+F:\DotNET\Projects\HtmlCssPractice\HtmlCssPractice\obj\Debug\HtmlCssPractice.pdb
